@@ -12,5 +12,5 @@
 ### [Socket Library](https://docs.python.org/3/library/socket.html)
 ### [UUID Library](https://docs.python.org/3/library/uuid.html)
 ### [DateTime Library](https://docs.python.org/3/library/datetime.html)
-### [Geek for Geeks](https://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/)
-### [StackOverFlow](https://stackoverflow.com/questions/73522096/why-is-the-proxy-not-working-when-sending-requests) to search for known errors.
+### [Geek for Geeks](https://www.geeksforgeeks.org/creating-a-proxy-webserver-in-python-set-1/) for syntax.
+### [StackOverFlow](https://stackoverflow.com/questions/73522096/why-is-the-proxy-not-working-when-sending-requests) for errors.
